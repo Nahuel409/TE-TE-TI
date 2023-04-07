@@ -6,7 +6,7 @@ cada casilla que elijas sera marcada para luego dar lugar a que juegue la pc de 
 El juego puede finalizar en victoria derrota o empate.
 
 
-CLICK PARA JUGAR  https://nahuel81.github.io/proyectoJS/
+CLICK PARA JUGAR  https://nahuel409.github.io/TE-TE-TI/
 
 
 # #Imagenes
