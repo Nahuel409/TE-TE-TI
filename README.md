@@ -43,4 +43,8 @@ GANA PLAYER
 EMPATE
 
 ![](https://res.cloudinary.com/dkm0hdlgz/image/upload/v1669738668/tateti%20project/Captura_de_pantalla_7_alkdgi.png)
-###End
+
+<h2>¡Gracias por jugar a Tateti!</h2>
+<p>Espero que hayas disfrutado del juego. Si tienes alguna pregunta o comentario, por favor no dudes en contactar.</p>
+
+
